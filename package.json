@@ -1,0 +1,9 @@
+{
+  "name": "matrix-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^8.1.0",
+    "validator": "^13.11.0"
+  }
+}
